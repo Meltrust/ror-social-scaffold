@@ -18,9 +18,9 @@
 - Ruby v2.7.3
 - Ruby on Rails v6.1
 
-## Live Demo
+## Visit the project now!!
 
-TBA
+https://keeper-tapsy.herokuapp.com/
 
 
 ## Getting Started
