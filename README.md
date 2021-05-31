@@ -1,6 +1,6 @@
-# Stay in touch
+# Keeper-tapsy
 
-> A mini social media app built with Ruby and Rails using Models, Views and Controlers.
+> A social media app built with Ruby and Rails using Models, Views and Controlers.
 
 ### Login screen 
 
@@ -13,29 +13,43 @@
 
 ![SCREENSHOT](docs/screenshot-timeline.jpg)
 
+## Visit keeper-tapsy now!!
+
+https://keeper-tapsy.herokuapp.com/
+
+## Features
+
+- Ability to log in and authenticate users
+- You can sign up, log in, add friends
+- You can publish posts, comment on posts
+- In your timeline, only your posts and posts from friends show up
+- Ability to view all users for now, to be able to add friends
+
+### What's planned for the future
+
+- Ability to post images, videos
+- Ability to make posts viewable to public
+- UI/UX improvements
+- Photos, and the ability to tag people
+
+
 ## Built With
 
 - Ruby v2.7.3
 - Ruby on Rails v6.1
 
-## Visit the project now!!
-
-https://keeper-tapsy.herokuapp.com/
 
 
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Ruby: 2.7.3
-Rails: 6.1
-Postgres: >=12
+- Ruby: 2.7.3
+- Rails: 6.1
+- Postgres: >=12
 
-### Setup
+### Setup development environment on your machine
 
-Instal gems with:
+Install gems with:
 
 ```
 bundle install
@@ -48,17 +62,13 @@ Setup database with:
    rails db:migrate
 ```
 
-
-
-### Usage
-
 Start server with:
 
 ```
     rails server
 ```
-
 Open `http://localhost:3000/` in your browser.
+
 
 ### Run tests
 
@@ -80,13 +90,7 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- [Micoverse team](https://www.microverse.org/)
-
 
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
-
-
