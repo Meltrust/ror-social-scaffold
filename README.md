@@ -4,14 +4,14 @@
 
 ### Login screen 
 
-![SCREENSHOT](docs/stay-in-touch.jpg)
+![SCREENSHOT](docs/login-screen.jpg)
 
 ### User status
-![SCREENSHOT](docs/screenshot-show.jpg)
+![SCREENSHOT](docs/show.png)
 
 ### User timeline with friends
 
-![SCREENSHOT](docs/screenshot-timeline.jpg)
+![SCREENSHOT](docs/timeline.png)
 
 ## Built With
 
